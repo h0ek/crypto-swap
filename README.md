@@ -42,3 +42,9 @@ Person to person exchange.
 **BitShares** - [https://bitshares.org/](https://bitshares.org/)
 
 **Bisq** - [https://bisq.network/](https://bisq.network/)
+
+## Atomic swaps
+
+An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.
+
+**Unstoppableswap** - [https://unstoppableswap.net/](https://unstoppableswap.net/) - anonymous.
