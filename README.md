@@ -1,6 +1,6 @@
 # Crypto currency exchange list
 
-The list includes referral links to popular and secure crypto currency exchange services.
+The list includes referral links to popular and secure crypto currency swap services.
 
 Based on article from [0ut3r.space](https://0ut3r.space/) -> [Crypto Exchange](https://0ut3r.space/2018/12/10/crypto-exchange/)
 
