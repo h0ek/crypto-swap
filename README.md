@@ -28,11 +28,11 @@ No account is needed, mostly automated.
 
 **ChangeNOW** - [https://changenow.io/](https://changenow.io/?link_id=4bbf275ac3078e) - [KYC/AML](https://changenow.io/faq/kyc-aml-procedure) requested in exceptional cases. KYC not required for refunds.
 
-**SimpleSwap** - [https://simpleswap.io/](https://simpleswap.io/?ref=8e9542763d3f) - [KYC/AML](https://simpleswap.io/aml-kyc) requested in exceptional cases. KYC required for refunds.
+**SimpleSwap** - [https://simpleswap.io/](https://simpleswap.io/?ref=8e9542763d3f) - [KYC/AML](https://simpleswap.io/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
 
-**Changelly** - [https://changelly.com/](https://changelly.com/?ref_id=2965k67m5ciykjaz) - [KYC/AML](https://changelly.com/aml-kyc) requested in exceptional cases. KYC required for refunds and there are some rumors.
+**Changelly** - [https://changelly.com/](https://changelly.com/?ref_id=2965k67m5ciykjaz) - [KYC/AML](https://changelly.com/aml-kyc) requested in exceptional cases. **KYC required for refunds** and there are some [rumors](https://www.reddit.com/r/Monero/comments/9bvs4h/used_changelly/).
 
-**FoxExchange** - [https://fox.exchange/](https://fox.exchange/?ref=48546KYC) - [KYC/AML](https://fox.exchange/aml-kyc) requested in exceptional cases. KYC required for refunds.
+**FoxExchange** - [https://fox.exchange/](https://fox.exchange/?ref=48546KYC) - [KYC/AML](https://fox.exchange/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
 
 ## P2P
 Person to person exchange.
