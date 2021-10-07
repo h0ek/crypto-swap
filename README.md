@@ -42,7 +42,7 @@ No account is needed, mostly automated.
 
 **ChangeHero** - [https://changehero.io/](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) - [KYC/AML](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) requested in exceptional cases. **KYC required for refunds**.
 
-**Changeangel** - [https://changeangel.io/](https://changeangel.io/) - [KYC/AML](https://changeangel.io/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
+**Changeangel** - [https://changeangel.io/](https://changeangel.io/) - [KYC/AML](https://changeangel.io/aml-kyc) requested in exceptional cases. ![#f03c15]**KYC required for refunds**.
 
 **SwitchChain** - [https://www.switchain.com/](https://www.switchain.com/) - [KYC/AML](https://www.switchain.com/policy) requested in exceptional cases. **KYC required for refunds**.
 
