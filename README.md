@@ -47,13 +47,13 @@ No account is needed, mostly automated.
 **SwitchChain** - [https://www.switchain.com/](https://www.switchain.com/) - [KYC/AML](https://www.switchain.com/policy) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
 ## P2P
-Person to person exchange.
+Person to person exchange. :two_men_holding_hands:
 
-**AgoraDesk** - [https://agoradesk.com/](https://agoradesk.com/?rc=kyt6), Tor [onion](http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/?rc=kyt6) version and [i2p](http://agoradesk.i2p/?rc=kyt6) version.
+**AgoraDesk** - [https://agoradesk.com/](https://agoradesk.com/?rc=kyt6), Tor [onion](http://2jopbxfi2mrw6pfpmufm7smacrgniglr7a4raaila3kwlhlumflxfxad.onion/?rc=kyt6) version and [i2p](http://agoradesk.i2p/?rc=kyt6) version. - Always verify reputation and use escrow if possible :small_red_triangle:.
 
-**BitShares** - [https://bitshares.org/](https://bitshares.org/)
+**BitShares** - [https://bitshares.org/](https://bitshares.org/) - Always verify reputation and use escrow if possible :small_red_triangle:.
 
-**Bisq** - [https://bisq.network/](https://bisq.network/)
+**Bisq** - [https://bisq.network/](https://bisq.network/) - Always verify reputation and use escrow if possible :small_red_triangle:.
 
 ## Atomic swaps
 
