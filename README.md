@@ -30,21 +30,21 @@ No account is needed, mostly automated.
 ## AML/KYC
 :passport_control: [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and :money_with_wings: [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
 
-**MorphToken** - [https://www.morphtoken.com/](https://www.morphtoken.com/) - anonymous, but they [started blocking Tor](https://www.reddit.com/r/Monero/comments/ki1fl0/morphtoken_blocks_tor_now_alternatives/).
+**MorphToken** - [https://www.morphtoken.com/](https://www.morphtoken.com/) - anonymous :heavy_check_mark:, but they :no_entry: [started blocking Tor](https://www.reddit.com/r/Monero/comments/ki1fl0/morphtoken_blocks_tor_now_alternatives/).
 
-**ChangeNOW** - [https://changenow.io/](https://changenow.io/?link_id=4bbf275ac3078e) - [KYC/AML](https://changenow.io/faq/kyc-aml-procedure) requested in exceptional cases. KYC not required for refunds.
+**ChangeNOW** - [https://changenow.io/](https://changenow.io/?link_id=4bbf275ac3078e) - [KYC/AML](https://changenow.io/faq/kyc-aml-procedure) requested in exceptional cases :heavy_exclamation_mark:. KYC not required for refunds :heavy_dollar_sign:.
 
-**SimpleSwap** - [https://simpleswap.io/](https://simpleswap.io/?ref=8e9542763d3f) - [KYC/AML](https://simpleswap.io/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
+**SimpleSwap** - [https://simpleswap.io/](https://simpleswap.io/?ref=8e9542763d3f) - [KYC/AML](https://simpleswap.io/aml-kyc) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
-**Changelly** - [https://changelly.com/](https://changelly.com/?ref_id=2965k67m5ciykjaz) - [KYC/AML](https://changelly.com/aml-kyc) requested in exceptional cases. **KYC required for refunds** and there are some [rumors](https://www.reddit.com/r/Monero/comments/9bvs4h/used_changelly/).
+**Changelly** - [https://changelly.com/](https://changelly.com/?ref_id=2965k67m5ciykjaz) - [KYC/AML](https://changelly.com/aml-kyc) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** and there are some [rumors](https://www.reddit.com/r/Monero/comments/9bvs4h/used_changelly/) :bangbang:.
 
-**FoxExchange** - [https://fox.exchange/](https://fox.exchange/?ref=48546KYC) - [KYC/AML](https://fox.exchange/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
+**FoxExchange** - [https://fox.exchange/](https://fox.exchange/?ref=48546KYC) - [KYC/AML](https://fox.exchange/aml-kyc) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
-**ChangeHero** - [https://changehero.io/](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) - [KYC/AML](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) requested in exceptional cases. **KYC required for refunds**.
+**ChangeHero** - [https://changehero.io/](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) - [KYC/AML](https://changehero.io/?ref=7db3572e6479494cb601821a15e58a59) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
-**Changeangel** - [https://changeangel.io/](https://changeangel.io/) - [KYC/AML](https://changeangel.io/aml-kyc) requested in exceptional cases. **KYC required for refunds**.
+**Changeangel** - [https://changeangel.io/](https://changeangel.io/) - [KYC/AML](https://changeangel.io/aml-kyc) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
-**SwitchChain** - [https://www.switchain.com/](https://www.switchain.com/) - [KYC/AML](https://www.switchain.com/policy) requested in exceptional cases. **KYC required for refunds**.
+**SwitchChain** - [https://www.switchain.com/](https://www.switchain.com/) - [KYC/AML](https://www.switchain.com/policy) requested in exceptional cases :heavy_exclamation_mark:. **KYC required for refunds** :bangbang:.
 
 ## P2P
 Person to person exchange.
@@ -59,4 +59,4 @@ Person to person exchange.
 
 An atomic swap is a smart contract technology that enables the exchange of one cryptocurrency for another without using centralized intermediaries, such as exchanges.
 
-**Unstoppableswap** - [https://unstoppableswap.net/](https://unstoppableswap.net/) - anonymous.
+**Unstoppableswap** - [https://unstoppableswap.net/](https://unstoppableswap.net/) - anonymous :heavy_check_mark:.
