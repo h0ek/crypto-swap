@@ -25,7 +25,7 @@ No account is needed, mostly automated.
 
 **N.exchange** - https://n.exchange/ - anonymous :heavy_check_mark:.
 
-<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :x: :crying_cat_face:
+<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :x: :crying_cat_face:.
 
 ## AML/KYC
 :passport_control: [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and :money_with_wings: [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
