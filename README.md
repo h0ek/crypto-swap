@@ -30,7 +30,7 @@ No account is needed, mostly automated.
 ## AML/KYC
 :passport_control: [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and :money_with_wings: [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
 
-**MorphToken** - [https://www.morphtoken.com/](https://www.morphtoken.com/) - anonymous :heavy_check_mark:, but they :no_entry: [started blocking Tor](https://www.reddit.com/r/Monero/comments/ki1fl0/morphtoken_blocks_tor_now_alternatives/).
+**MorphToken** - [https://www.morphtoken.com/](https://www.morphtoken.com/) - anonymous :heavy_check_mark:, but they [started blocking Tor](https://www.reddit.com/r/Monero/comments/ki1fl0/morphtoken_blocks_tor_now_alternatives/) :no_entry:.
 
 **ChangeNOW** - [https://changenow.io/](https://changenow.io/?link_id=4bbf275ac3078e) - [KYC/AML](https://changenow.io/faq/kyc-aml-procedure) requested in exceptional cases :heavy_exclamation_mark:. KYC not required for refunds :heavy_dollar_sign:.
 
