@@ -7,25 +7,25 @@ Based on article from [0ut3r.space](https://0ut3r.space/) -> [Crypto currency ex
 ## Anonymous
 No account is needed, mostly automated.
 
-**FixedFloat** - [https://fixedfloat.com/](https://fixedfloat.com/?ref=b5vqkwca) - anonymous.
+**FixedFloat** - [https://fixedfloat.com/](https://fixedfloat.com/?ref=b5vqkwca) - anonymous :heavy_check_mark:.
 
-**Godex** - [https://godex.io/](https://godex.io/?aff_id=iN3C1OoJxPuOEgzC&utm_source=affiliate&utm_medium=0ut3rSpace&utm_campaign=iN3C1OoJxPuOEgzC) - anonymous.
+**Godex** - [https://godex.io/](https://godex.io/?aff_id=iN3C1OoJxPuOEgzC&utm_source=affiliate&utm_medium=0ut3rSpace&utm_campaign=iN3C1OoJxPuOEgzC) - anonymous :heavy_check_mark:.
 
-**Xchange.me** - [https://xchange.me/](https://xchange.me/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - [Onion Address](http://xchangen24yn24b6.onion/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - anonymous.
+**Xchange.me** - [https://xchange.me/](https://xchange.me/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - [Onion Address](http://xchangen24yn24b6.onion/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - anonymous :heavy_check_mark:.
 
-**StealthEX** - [https://stealthex.io/](https://stealthex.io/?ref=c7795nps6dn) - anonymous.
+**StealthEX** - [https://stealthex.io/](https://stealthex.io/?ref=c7795nps6dn) - anonymous :heavy_check_mark:.
 
-**SideShift** - [https://sideshift.ai/](https://sideshift.ai/a/rGLoUMOMk) - anonymous.
+**SideShift** - [https://sideshift.ai/](https://sideshift.ai/a/rGLoUMOMk) - anonymous :heavy_check_mark:.
 
-**Exolix** - [https://exolix.com/](https://exolix.com/?ref=CHsIDEU4zPnvknhK) - anonymous.
+**Exolix** - [https://exolix.com/](https://exolix.com/?ref=CHsIDEU4zPnvknhK) - anonymous :heavy_check_mark:.
 
-**LetsExchange** - [https://letsexchange.io/](https://letsexchange.io/?ref_id=UGsjyvyYvQnIVa5A) - anonymous.
+**LetsExchange** - [https://letsexchange.io/](https://letsexchange.io/?ref_id=UGsjyvyYvQnIVa5A) - anonymous :heavy_check_mark:.
 
-**FlypMe** - [https://flyp.me/](https://flyp.me/) - anonymous.
+**FlypMe** - [https://flyp.me/](https://flyp.me/) - anonymous :heavy_check_mark:.
 
-**N.exchange** - https://n.exchange/ - anonymous.
+**N.exchange** - https://n.exchange/ - anonymous :heavy_check_mark:.
 
-<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :crying_cat_face:
+<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :crying_cat_face: :x:
 
 ## AML/KYC
 [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
