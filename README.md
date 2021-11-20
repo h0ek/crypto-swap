@@ -25,10 +25,10 @@ No account is needed, mostly automated.
 
 **N.exchange** - https://n.exchange/ - anonymous :heavy_check_mark:.
 
-<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :crying_cat_face: :x:
+<s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :x: :crying_cat_face:
 
 ## AML/KYC
-[Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
+:passport_control: [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and :money_with_wings: [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange.
 
 **MorphToken** - [https://www.morphtoken.com/](https://www.morphtoken.com/) - anonymous, but they [started blocking Tor](https://www.reddit.com/r/Monero/comments/ki1fl0/morphtoken_blocks_tor_now_alternatives/).
 
