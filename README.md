@@ -23,11 +23,9 @@ No account is needed, mostly automated.
 
 **N.exchange** - https://n.exchange/ - anonymous :heavy_check_mark:
 
+**Xchange.me** - [https://xchange.me/](https://xchange.me/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - [Onion Address](http://xchangen24yn24b6.onion/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - anonymous :heavy_check_mark: :warning: Temporary diabled
+
 <s>**XMR.to** - [https://xmr.to/](https://xmr.to/)</s> - anonymous, but closed forever :x: :crying_cat_face:
-
-## Temporary diabled
-
-**Xchange.me** - [https://xchange.me/](https://xchange.me/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - [Onion Address](http://xchangen24yn24b6.onion/?invite=d6c6bcc5-b747-44d7-b54e-b1b8e6d79066) - anonymous :heavy_check_mark: :warning:
 
 ## AML/KYC
 :passport_control: [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) and :money_with_wings: [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) exchange
