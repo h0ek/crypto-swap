@@ -9,7 +9,7 @@ List of crypto currency swap services. Check also [Crypto currency exchange with
 
 **Anonymous** - Yes :+1: / No :heavy_exclamation_mark: + link to KYC/AML
 
-**Automatic** - Yes, fylly automatic :computer: / No, manual approve needed :raising_hand:
+**Automatic** - Yes, fully automatic :computer: / No, manual approve needed :raising_hand:
 
 **Affilate system** - Yes :link: with link to details / No :heavy_minus_sign:
 
