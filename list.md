@@ -2,12 +2,10 @@
 List of crypto currency swap services. Check also [Crypto currency exchange with no trace](https://0ut3r.space/2018/12/10/crypto-exchange/) it all started there.
 
 ## Legend
-
-**Active** - Yes it's online :white_check_mark: / No, it's dead :skull:
-
-**Link** - Link to the service (sometimes it is my reflink, if affilate program available)
-
-**Anonymous** - Yes :+1: / No :heavy_exclamation_mark: + link to KYC/AML
++ **Name** - Name of service
++ **Link** - Link to the service (sometimes it is reflink, please use to support this list)
++ **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead
++ **Anonymous** - :+1: Yes / :heavy_exclamation_mark: No + link to KYC/AML
 
 **Automatic** - Yes, fully automatic :computer: / No, manual approve needed :raising_hand:
 
