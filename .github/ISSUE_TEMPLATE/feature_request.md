@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[FEATURE] <title>"
+title: "[FEATURE] <feature_title_here>"
 labels: enhancement
 assignees: h0ek
 
