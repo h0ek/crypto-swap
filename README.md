@@ -57,4 +57,4 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) and [Bi
 | [Unstoppableswap](https://unstoppableswap.net/) | :white_check_mark: | :+1: | :heavy_minus_sign: | :heavy_minus_sign: | :bookmark_tabs::heavy_minus_sign: | :green_heart: | :heavy_minus_sign: |
 | [XMR.to](https://xmr.to/) | :skull: | :+1: | :heavy_minus_sign: | :heavy_minus_sign: | :bookmark_tabs::heavy_minus_sign: | :green_heart: | :heavy_minus_sign: |
 
-*****Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.
+*Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.
