@@ -6,7 +6,7 @@ Some of the URLs are my referral links.
 ## Legend
 + **Name** - Link to the service (sometimes it is reflink, please use to support my work)
 + **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead / :coffee: Temporary offline
-+ **Anonymous** - :+1: Yes /:heavy_exclamation_mark: No + link to KYC/AML / :two_men_holding_hands: Peer to peer
++ **Anonymous** - :+1: Yes /:heavy_exclamation_mark: No + link to KYC/AML / :two_men_holding_hands: Peer to peer / :rotating_light: selective scam
 + **Affilate system** - :link: Yes / :heavy_minus_sign: No 
 + **TrustPilot** - :star: Listed on TrustPilot + link / Not listed :heavy_minus_sign:
 + **BitcoinTalk** - :bookmark_tabs: BitcoinTalk forum thred + link / :heavy_minus_sign: No thread on Bitcoin Talk
@@ -58,5 +58,6 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) and [Bi
 | [XMR.to](https://xmr.to/)                                    |      :skull:       |                             :+1:                             | :heavy_minus_sign: |                      :heavy_minus_sign:                      |              :bookmark_tabs::heavy_minus_sign:               |  :green_heart:  |                      :heavy_minus_sign:                      |
 
 ``*`` *Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.*
+:rotating_light: Fixed Float - [Selective scam detected](https://darknetlive.com/post/investigating-the-selective-scamming-behavior-of-non-kyc-exchange-fixedfloat--7b0cd6e8)!
 
 You might also want to check [debit cards list provider supporting cryptocurrencies](https://github.com/h0ek/crypto-cards).
