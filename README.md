@@ -58,6 +58,7 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) and [Bi
 | [XMR.to](https://xmr.to/)                                    |      :skull:       |                             :+1:                             | :heavy_minus_sign: |                      :heavy_minus_sign:                      |              :bookmark_tabs::heavy_minus_sign:               |  :green_heart:  |                      :heavy_minus_sign:                      |
 
 ``*`` *Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.*
+
 :rotating_light: Fixed Float - [Selective scam detected](https://darknetlive.com/post/investigating-the-selective-scamming-behavior-of-non-kyc-exchange-fixedfloat--7b0cd6e8)!
 
 You might also want to check [debit cards list provider supporting cryptocurrencies](https://github.com/h0ek/crypto-cards).
