@@ -6,7 +6,8 @@ Some of the URLs are my referral links.
 ## Legend
 + **Name** - Link to the service (sometimes it is reflink, please use to support my work)
 + **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead / :coffee: Temporary offline
-+ **Anonymous** - :+1: Yes /:heavy_exclamation_mark: No + link to KYC/AML / :two_men_holding_hands: Peer to peer / :rotating_light: Rumors + Link
++ **Anonymous** - :+1: Yes / :heavy_exclamation_mark: No + link to KYC/AML / :two_men_holding_hands: Peer to peer / :rotating_light: Rumors + Link
++ **Refund** - :+1: Refund without KYC / :heavy_exclamation_mark: KYC is needed even for refunds
 + **Affilate system** - :link: Yes / :heavy_minus_sign: No 
 + **TrustPilot** - :star: Listed on TrustPilot + link / Not listed :heavy_minus_sign:
 + **BitcoinTalk** - :bookmark_tabs: BitcoinTalk forum thred + link / :heavy_minus_sign: No thread on Bitcoin Talk
