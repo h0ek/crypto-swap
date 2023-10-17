@@ -23,10 +23,6 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/) and [Bi
 
 ## The List
 
-## The List
-
-## The List
-
 | Name                                                         |                            Active                            |                          Anonymous                           |                            Refund                            |     Affiliate*     |                          TrustPilot                          |                            Forum                             |       Tor       |                            Onion                             |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------: | :----------------------------------------------------------: |
 | [Godex](https://godex.io/?aff_id=iN3C1OoJxPuOEgzC&utm_source=affiliate&utm_medium=0ut3rSpace&utm_campaign=iN3C1OoJxPuOEgzC) |                      :white_check_mark:                      |                             :+1:                             |                             :+1:                             |    :link: 0,6%     |   :star: [TP](https://www.trustpilot.com/review/godex.io)    | :bookmark_tabs: [BT](https://bitcointalk.org/index.php?topic=4693949.0) |  :green_heart:  |                      :heavy_minus_sign:                      |
