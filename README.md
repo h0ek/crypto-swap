@@ -3,6 +3,8 @@ List of crypto currency swap services. Check also [crypto currency exchange with
 
 Some of the URLs are my referral links.
 
+Open [README.md](README.md) for better view.
+
 ## Legend
 + **Name** - Link to the service (sometimes it is ref link, please use to support my work) / 🧅 Tor Only
 + **Active** - :white_check_mark: Yes it's online / :skull: No, it's dead / :coffee: Temporary offline / :x: Scam, avoid!
