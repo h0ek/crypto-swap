@@ -1,5 +1,5 @@
 # Description
-List of crypto currency swap services. Check also [crypto currency exchange with no trace](https://0ut3r.space/2018/12/10/crypto-exchange/) it all started there.
+List of crypto currency swap services. Check also [crypto currency exchange with no trace](https://0ut3r.space/2018/12/10/crypto-exchange/) it all started there. I am also working on a separate page dedicated to crypto swaps, check it here [https://swap.cab/](https://swap.cab/).
 
 Some of the URLs are my referral links.
 
