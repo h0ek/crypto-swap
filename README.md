@@ -67,5 +67,10 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/), [Bitco
 | ~~[XMR.to](https://xmr.to/)~~                                |                           :skull:                            |                             :+1:                             |           :+1:           | :heavy_minus_sign: |                      :heavy_minus_sign:                      |                      :heavy_minus_sign:                      |  :green_heart:  |                      :heavy_minus_sign:                      |                   :heavy_minus_sign:                    |
 | ~~[AtomSwap](https://atomswap.net/)~~                        | :skull: + :x: [Proof](https://bitcointalk.org/index.php?topic=5467788.0) |                             :+1:                             |           :+1:           | :heavy_minus_sign: |                      :heavy_minus_sign:                      |                      :heavy_minus_sign:                      |  :green_heart:  | :purple_heart: [URL](http://atomswqj23pzjvizfhqopclihqm3uxb7d6gfjravurev3mmlxegorjqd.onion/) |                   :heavy_minus_sign:                    |
 
+| [Secureshift]([https://secureshift.io](https://secureshift.io?ref=kledEW0Fx9yQ)) 🎖️      |                      :white_check_mark:                      | :heavy_exclamation_mark: [KYC/AML](https://secureshift.io/terms-condition) | :heavy_exclamation_mark: |    :link: 0,5%     | :star: [TP](https://www.trustpilot.com/review/secureshift.io) | :bookmark_tabs: [BT](https://bitcointalk.org/index.php?topic=5492412.0) |  :green_heart:  |                      :heavy_minus_sign:                      |  :heart:[URL](https://www.reddit.com/r/secureshift/)  |
+
 ``*`` *Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.*
 You might also want to check [debit cards list provider supporting cryptocurrencies](https://github.com/h0ek/crypto-cards).
+
+
+
