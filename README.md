@@ -1,5 +1,5 @@
 # Description
-Basic list of crypto currency swap services. For more details go to the dedicated page [Swap Cab](https://swap.cab/).
+Basic list of crypto currency swap services.
 
 Some of the URLs are my referral links.
 
