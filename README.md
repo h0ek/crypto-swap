@@ -14,6 +14,7 @@ Some of the URLs are my referral links.
 + **Tor** - :green_heart: Connection from Tor allowed / :no_entry_sign: Tor blocked
 + **Onion URL** - :purple_heart: URL to onion service ([TorBrowser](https://www.torproject.org/download/) required) / :heavy_minus_sign: no onion service
 + **Reddit** - ❤️ URL to Reddit
++ **Unverified** - 🟡 New or insufficiently reviewed service, not personally tested or independently verified.
 
 ## KYC/AML
 Before using, please read the [Know Your Customer](https://en.wikipedia.org/wiki/Know_your_customer) guidelines and [Anti Money Laundering](https://en.wikipedia.org/wiki/Money_laundering#Anti-money_laundering) checks. This is important if you want to swap coins completely anonymously or if you don't mind being verified. Most of the exchange services that have KYC/AML option need to verify your identity even when refunding (some refund without verification), so please check the details of each exchange service with KYC/AML. In my opinion, operating crypto should be anonymous and allowed to all people without restrictions, but I also understand that companies need to protect their assets, brands and security from money laundering. So it is up to you which you choose. I use both. In my case, it always depends on whether the coins are from drug sales or from my uncle in the USA, because as we all know, only drug dealers, murderers, my uncle and criminals in general use cryptocurrency. [THAT_WAS_A_JOKE]. So never think about KYC/ML exchanges as worse, they can just verify your identity occasionally and freeze your funds for that time.
@@ -72,6 +73,18 @@ Always double check reviews on [TrustPilot](https://www.trustpilot.com/), [Bitco
 | ~~[FoxExchange](https://fox.exchange/?ref=48546KYC)~~        |                           :skull:                            | :heavy_exclamation_mark: KYC/AML | :heavy_exclamation_mark: |     :link: 50%     |                      :heavy_minus_sign:                      | :bookmark_tabs: [BT](https://bitcointalk.org/index.php?topic=5104721.40) |   :green_heart:    |                      :heavy_minus_sign:                      |                   :heavy_minus_sign:                    |
 | ~~[XMR.to](https://xmr.to/)~~                                |                           :skull:                            |               :+1:               |           :+1:           | :heavy_minus_sign: |                      :heavy_minus_sign:                      |                      :heavy_minus_sign:                      |   :green_heart:    |                      :heavy_minus_sign:                      |                   :heavy_minus_sign:                    |
 | ~~[ZigZag](https://zigzag.io/)~~                             |                           :skull:                            | :heavy_exclamation_mark: KYC/AML | :heavy_exclamation_mark: | :heavy_minus_sign: |                      :heavy_minus_sign:                      |                      :heavy_minus_sign:                      |   :green_heart:    |                      :heavy_minus_sign:                      |                   :heavy_minus_sign:                    |
+
+## New & Unverified Services
+
+New and potentially interesting cryptocurrency swap services that have not yet been personally tested or independently verified.
+
+These services may lack an established reputation, sufficient user feedback, or a proven operational history. Inclusion here is not a recommendation or endorsement.
+
+| Name | Type | Launched | KYC/AML | Affiliate | Tor | Onion | Status | Notes |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| [SwapRouter](https://swaprouter.app/) | Aggregator | Nov 2026 | Provider-dependent | :link: 50%* | :green_heart: | :purple_heart: [URL](http://k35pbegsvajwhmmgtpq3km2qtfckatmyvoctwbxokfxpp2qqfbcdvfid.onion) | 🟡 Unverified | Non-custodial (claimed), [No-JS](https://swaprouter.app/nojs), no independent reviews |
+
+Services may be moved to the main list after personal testing and sufficient evidence of reliable operation.
 
 ``*`` *Higher value is based on exchange fee or overall revenue (e.g. you get 50% of fee from transaction, sometimes it is also profit from revenue) and smaller value is based on each transaction fee (e.g. 0,45% from each transaction), but both are related to amount of coins, more coins bigger earnings.*
 
