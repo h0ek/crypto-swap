@@ -83,6 +83,7 @@ These services may lack an established reputation, sufficient user feedback, or 
 | Name | Type | Launched | KYC/AML | Affiliate | Tor | Onion | Status | Notes |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | [SwapRouter](https://swaprouter.app/) | Aggregator | Nov 2026 | Provider-dependent | :link: 50%* | :green_heart: | :purple_heart: [URL](http://k35pbegsvajwhmmgtpq3km2qtfckatmyvoctwbxokfxpp2qqfbcdvfid.onion) | 🟡 Unverified | Non-custodial (claimed), [No-JS](https://swaprouter.app/nojs), no independent reviews |
+| [VertEXchange](https://vertexchange.pro/) | Exchange / Aggregator | Aug 2026 | Provider-dependent | :heavy_minus_sign: | ❔ Untested | :heavy_minus_sign: | 🟡 Unverified | No account required (claimed), XMR/ZEC support, no independent user reviews |
 
 Services may be moved to the main list after personal testing and sufficient evidence of reliable operation.
 
